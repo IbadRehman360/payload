@@ -1,0 +1,26 @@
+# Build artifacts
+build/
+dist/
+.next/
+.vercel/
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Payload CMS default media upload directory
+public/media/
+
+# OS and editor-specific files
+.DS_Store
+.idea/
+.vscode/
+
+# Log files
+*.log
+
+# Public assets that might be generated
+public/robots.txt
+public/sitemap*.xml
